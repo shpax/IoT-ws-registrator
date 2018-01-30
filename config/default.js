@@ -7,5 +7,5 @@ module.exports = {
     timeout: 60000,
   },
 
-  port: 3000,
+  port: 3001,
 };
