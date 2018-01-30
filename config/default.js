@@ -4,7 +4,7 @@ module.exports = {
     port: 6379
   },
   device: {
-    timeout: 60000,
+    timeout: 10000,
   },
 
   port: 3001,
