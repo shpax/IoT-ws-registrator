@@ -1,4 +1,3 @@
-const redis = require('redis');
 const config = require('config');
 const _ = require('lodash');
 
